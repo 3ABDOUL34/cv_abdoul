@@ -1,0 +1,52 @@
+.infophoto{
+    height: 190px;
+    background-color: rgb(133, 125, 90);
+    font-style: italic;
+}
+.info{
+    float:left;
+}
+.photo{
+    float:right;
+  margin-top: -190px;
+  border:navajowhite;
+}
+.section {
+    color:black;
+    margin-top: -2px;
+    margin-bottom: 20px;
+    border: black;
+    font-style: italic;
+    font-size: 17px;
+}
+.page{
+    background-color:white;
+    border: 1px solid rgb(24, 25, 27);
+    font-size: 16px;
+    margin: auto;
+    width: 790px;
+}
+.section-A{
+    padding-top: 4px;
+    background-color: cornflowerblue;
+}
+.section-B{
+    padding-top: 4px;
+    background-color:cornflowerblue;
+}
+.section-C{
+    padding-top: 4px;
+    background-color: rgb(195, 203, 216);
+}.section-D{
+    padding-top: 4px;
+    background-color: cornflowerblue;
+}
+.ab{
+    color: blue;
+    background-color: rgb(215, 220, 228);
+}
+.haute{
+    text-align: center;
+    background-color: rgb(34, 46, 207);
+    color: white;
+}
